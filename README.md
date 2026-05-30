@@ -27,7 +27,7 @@ The project includes data cleaning, SQL analysis, Python-based EDA, and an inter
 * customer_shopping_analysis.ipynb` → Python data analysis notebook
 * `customer_shopping_behavior_analysis.sql` → SQL commands and analysis queries
 * `PowerBI_Dashboard.pbix` → Power BI dashboard file #This file not opening due some technical issue
-* `Dashboard1.png`,`Dashboard2.png` → Dashboard screenshot
+* `image.png`,`image(1).png` → Dashboard screenshot
 
 ---
 
