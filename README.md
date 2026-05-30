@@ -33,7 +33,6 @@ The project includes data cleaning, SQL analysis, Python-based EDA, and an inter
 
 ## 📊 Dashboard Preview
 
-
 ---
 
 ## 🔍 Key Insights
