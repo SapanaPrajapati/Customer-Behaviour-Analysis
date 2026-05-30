@@ -114,7 +114,3 @@ This project helped in understanding customer behavior and predicting churn patt
 
 ---
 
-## 👩‍💻 Author
-
-Sapana Prajapati
-Aspiring Data Analyst | Python | SQL | Power BI
