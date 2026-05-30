@@ -33,7 +33,8 @@ The project includes data cleaning, SQL analysis, Python-based EDA, and an inter
 
 ## 📊 Dashboard Preview
 
----
+<img width="928" height="461" alt="Dashboard1" src="https://github.com/user-attachments/assets/dc713b92-1d10-4cb6-8d65-5d2a0529a111" />
+
 
 ## 🔍 Key Insights
 
