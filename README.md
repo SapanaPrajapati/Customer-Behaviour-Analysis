@@ -32,8 +32,12 @@ The project includes data cleaning, SQL analysis, Python-based EDA, and an inter
 ---
 
 ## 📊 Dashboard Preview
-
+Customer Behavioural Analysis 
 <img width="928" height="461" alt="Dashboard1" src="https://github.com/user-attachments/assets/dc713b92-1d10-4cb6-8d65-5d2a0529a111" />
+
+
+Best and Worst 
+<img width="931" height="459" alt="Dashboard2" src="https://github.com/user-attachments/assets/2ef291b5-a24d-4431-b069-836b4fde8e6b" />
 
 
 ## 🔍 Key Insights
